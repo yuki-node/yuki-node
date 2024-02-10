@@ -6,9 +6,15 @@
 [![](https://img.shields.io/website?style=flat-square&up_message=pelin.cc&url=https%3A%2F%2Fwww.pelin.cc)](https://www.pelin.cc)
 ![](https://komarev.com/ghpvc/?username=Cookiery&style=flat-square)
 
-I'm a Stack Overflow Engineer 🛠, BUG Master 🐞, Lucky Programmer 🧑‍💻, Algorithm Oracle 🔮, Coffee Addict ☕️, Juggling Architect 🤡.
+I'm a 
+Stack Overflow Engineer 🛠,
+BUG Master 🐞, 
+Lucky Programmer 🧑‍💻, 
+Algorithm Oracle 🔮, 
+Coffee Addict ☕️, 
+Juggling Architect 🤡.
 
-𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑭𝒓𝒆𝒆𝒘𝒉𝒆𝒆𝒍](https://www.freewheel.com/) 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈.
+𝑫𝒆𝒗-𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑭𝒓𝒆𝒆𝒘𝒉𝒆𝒆𝒍](https://www.freewheel.com/) 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈.
 
 History in Baidu
 
