@@ -16,14 +16,11 @@ Juggling Architect 🤡.
 
 𝑫𝒆𝒗-𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑭𝒓𝒆𝒆𝒘𝒉𝒆𝒆𝒍](https://www.freewheel.com/) 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈.
 
-History in Baidu
-
-<img width="380" height="420" alt="image" src="https://github.com/Cookiery/Cookiery/assets/33125275/999d1f1b-dea0-44b6-b4c5-52f1f82e3565">
 
 
 ## 💻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸 & 𝗧𝗼𝗼𝗹𝘀
 
-
+TODO
 
 ## ⚡️ 𝗦𝘁𝗮𝘁𝘀
 
