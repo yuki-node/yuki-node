@@ -14,7 +14,7 @@ Algorithm Oracle 🔮,
 Coffee Addict ☕️, 
 Juggling Architect 🤡.
 
-𝑫𝒆𝒗-𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑭𝒓𝒆𝒆𝒘𝒉𝒆𝒆𝒍](https://www.freewheel.com/) 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈.
+𝑫𝒆𝒗-𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑵𝒂𝒓𝒘𝒂𝒍](https://narwal.com/) 𝒊𝒏 𝑺𝒉𝒆𝒏𝒁𝒉𝒆𝒏.
 
 
 
