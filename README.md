@@ -18,9 +18,17 @@ Juggling Architect 🤡.
 
 
 
-## 💻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸 & 𝗧𝗼𝗼𝗹𝘀
+## 💻 Tech 𝗦𝘁𝗮𝗰𝗸 & 𝗧𝗼𝗼𝗹𝘀
 
-TODO
+<p align="center">
+  <samp>
+    <a href="">Me</a> .
+    <a href="">Blog</a> .
+    <a href="">Tech Stack</a> .
+    <a href="">Tools</a> .
+    <a href="">Projects</a>
+  </samp>
+</p>
 
 ## ⚡️ 𝗦𝘁𝗮𝘁𝘀
 
