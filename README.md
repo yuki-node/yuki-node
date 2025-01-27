@@ -6,7 +6,19 @@
 [![](https://img.shields.io/website?style=flat-square&up_message=pelin.cc&url=https%3A%2F%2Fwww.pelin.cc)](https://www.pelin.cc)
 ![](https://komarev.com/ghpvc/?username=Cookiery&style=flat-square)
 
-<a href=""><img src="wechat/wechat.svg" alt="微信"></a>
+<p align="center">
+<a href="https://github.com/Cookiery/Cookiery/blob/main/wechat/wechat-qr-code.jpg?raw=true"><img src="wechat/wechat.svg" alt="微信"></a>
+</p>
+
+<p align="center">
+  <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
+  <img alt="Docker" src="https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=767676">
+</p>
+
+<p align="center">
+  <img alt="Golang" src="https://img.shields.io/static/v1?style=flat&logo=Go&label=&message=Golang&color=767676">
+  <img alt="Python" src="https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=767676">
+</p>
 
 
 I'm a 
@@ -19,13 +31,13 @@ Juggling Architect 🤡.
 
 𝑫𝒆𝒗-𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑵𝒂𝒓𝒘𝒂𝒍](https://narwal.com/) 𝒊𝒏 𝑺𝒉𝒆𝒏𝒁𝒉𝒆𝒏.
 
-## 
+---
+CNCF Certification
 
-CKA: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-b5aeb0dd-f237-4ba9-93fe-8fc148f34626-certificate.pdf
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-b5aeb0dd-f237-4ba9-93fe-8fc148f34626-certificate.pdf" target="_blank">![](./cka-certified-kubernetes-administrator.png)</a>
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf" target="_blank">![](./cks-certified-kubernetes-security-specialist.png)</a>
 
-CKS: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf
-
-
+---
 
 ## 💻 Tech Stack & Tools
 
