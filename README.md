@@ -18,6 +18,7 @@ Juggling Architect 🤡.
 
 ## 
 CKA: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-b5aeb0dd-f237-4ba9-93fe-8fc148f34626-certificate.pdf
+
 CKS: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf
 
 
