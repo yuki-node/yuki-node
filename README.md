@@ -6,6 +6,9 @@
 [![](https://img.shields.io/website?style=flat-square&up_message=pelin.cc&url=https%3A%2F%2Fwww.pelin.cc)](https://www.pelin.cc)
 ![](https://komarev.com/ghpvc/?username=Cookiery&style=flat-square)
 
+<a href=""><img src="wechat/wechat.svg" alt="微信"></a>
+
+
 I'm a 
 Stack Overflow Engineer 🛠,
 BUG Master 🐞, 
@@ -17,6 +20,7 @@ Juggling Architect 🤡.
 𝑫𝒆𝒗-𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑵𝒂𝒓𝒘𝒂𝒍](https://narwal.com/) 𝒊𝒏 𝑺𝒉𝒆𝒏𝒁𝒉𝒆𝒏.
 
 ## 
+
 CKA: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-b5aeb0dd-f237-4ba9-93fe-8fc148f34626-certificate.pdf
 
 CKS: https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf
