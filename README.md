@@ -34,8 +34,8 @@ Juggling Architect 🤡.
 ---
 CNCF Certification
 
-<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-b5aeb0dd-f237-4ba9-93fe-8fc148f34626-certificate.pdf" target="_blank"><img src="./kubernetes-cka-color.svg" width="120"></a>
-<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf" target="_blank"><img src="./kubernetes-security-specialist-logo.svg" width="120"></a>
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-b5aeb0dd-f237-4ba9-93fe-8fc148f34626-certificate.pdf" target="_blank" rel="noopener noreferrer"><img src="./kubernetes-cka-color.svg" width="120"></a>
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf" target="_blank" rel="noopener noreferrer"><img src="./kubernetes-security-specialist-logo.svg" width="120"></a>
 
 ---
 
