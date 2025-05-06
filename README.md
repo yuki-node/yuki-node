@@ -34,6 +34,7 @@ Juggling Architect 🤡.
 ---
 CNCF Certification
 
+<a href="https://www.credly.com/earner/earned/badge/f7855d8b-a448-4b2b-9e3c-e3acadbb7371" target="_blank"><img src="./kubestronaut-color.svg" width="120"></a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-b5aeb0dd-f237-4ba9-93fe-8fc148f34626-certificate.pdf" target="_blank"><img src="./cka-color.svg" width="120"></a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf" target="_blank"><img src="./cks-color.svg" width="120"></a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3a7ccd79-7b4e-44c0-bd40-85af5b0d3f47-certificate.pdf" target="_blank"><img src="./ckad-color.svg" width="120"></a>
