@@ -38,7 +38,7 @@ CNCF Certification
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3db08028-a46a-4bb3-901f-19c46b3e3ef2-certificate.pdf" target="_blank"><img src="./cks-color.svg" width="120"></a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-3a7ccd79-7b4e-44c0-bd40-85af5b0d3f47-certificate.pdf" target="_blank"><img src="./ckad-color.svg" width="120"></a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-1a6caeba-e23a-488b-aeba-930d93b87ffa-certificate.pdf" target="_blank"><img src="./kcna-color.svg" width="120"></a>
-
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5ab0c4-9e4d-449f-9222-ae14c5f39982-xuqi-yang-7981c461-233e-45ff-a5db-5777cb9fb94b-certificate.pdf" target="_blank"><img src="./kcsa-color.svg" width="120"></a>
 ---
 
 ## 💻 Tech Stack & Tools
