@@ -1,4 +1,4 @@
-# 𝗛𝗶 👋, 𝗜'𝗺 Cookiery/Cookie
+# 𝗛𝗶 👋, 𝗜'𝗺 Yuki Yang (Cookie)
 
 [![](https://img.shields.io/badge/-%40Cookiery-181717?style=flat-square&logo=github)](https://github.com/Cookiery)
 [![](https://img.shields.io/badge/-%40Cookiery-26A5E4?style=flat-square&logo=telegram)](https://t.me/)
@@ -22,14 +22,14 @@
 
 
 I'm a 
-Stack Overflow Engineer 🛠,
-BUG Master 🐞, 
-Lucky Programmer 🧑‍💻, 
-Algorithm Oracle 🔮, 
-Coffee Addict ☕️, 
-Juggling Architect 🤡.
+- Stack Overflow Engineer 🛠
+- BUG Master 🐞
+- Lucky Programmer 🧑‍💻
+- Algorithm Oracle 🔮
+- Coffee Addict ☕️
+- Juggling Architect 🤡
 
-𝑫𝒆𝒗-𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑵𝒂𝒓𝒘𝒂𝒍](https://narwal.com/) 𝒊𝒏 𝑺𝒉𝒆𝒏𝒁𝒉𝒆𝒏.
+𝘿𝙚𝙫-𝙊𝙥𝙨 / 𝙎𝙍𝙀 / 𝘾𝙡𝙤𝙪𝙙 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑵𝒂𝒓𝒘𝒂𝒍](https://narwal.com/) 𝒊𝒏 𝑺𝒉𝒆𝒏𝒁𝒉𝒆𝒏.
 
 ---
 CNCF Certification
