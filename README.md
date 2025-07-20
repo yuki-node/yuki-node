@@ -58,6 +58,6 @@ https://www.cncf.io/training/kubestronaut/?_sft_lf-country=cn&p=xuqi-yang
 
 ## ⚡️ 𝗦𝘁𝗮𝘁𝘀
 
-<img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Cookiery&show_icons=true&locale=en" alt="Cookiery" />
+<img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=yuki-node&show_icons=true&locale=en" alt="Cookiery" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cookiery&show_icons=true&locale=en&layout=compact" alt="Cookiery" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuki-node&show_icons=true&locale=en&layout=compact" alt="Cookiery" />
