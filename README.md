@@ -1,9 +1,9 @@
 # 𝗛𝗶 👋, 𝗜'𝗺 Yuki Yang (Cookie)
 
-[![](https://img.shields.io/badge/-%40Cookiery-181717?style=flat-square&logo=github)](https://github.com/Cookiery)
-[![](https://img.shields.io/badge/-%40Cookiery-26A5E4?style=flat-square&logo=telegram)](https://t.me/)
+[![](https://img.shields.io/badge/-%40yuki-181717?style=flat-square&logo=github)](https://github.com/yuki-node)
+[![](https://img.shields.io/badge/-%40yuki-26A5E4?style=flat-square&logo=telegram)](https://t.me/)
 [![](https://img.shields.io/badge/-yangxuqi000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:yangxuqi000@gmail.com)
-[![](https://img.shields.io/website?style=flat-square&up_message=pelin.cc&url=https%3A%2F%2Fwww.pelin.cc)](https://www.pelin.cc)
+[![](https://img.shields.io/website?style=flat-square&up_message=pelin.cc&url=https%3A%2F%2Fwww.pelin.cc)]()
 ![](https://komarev.com/ghpvc/?username=Cookiery&style=flat-square)
 
 <!-- <p align="center"> -->
