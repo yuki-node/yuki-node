@@ -10,15 +10,9 @@
 <a href="https://github.com/Cookiery/Cookiery/blob/main/wechat/wechat-qr-code.jpg?raw=true"><img src="wechat/wechat.svg" alt="微信"></a>
 <!-- </p> -->
 
-<!-- <p align="center">
-  <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
-  <img alt="Docker" src="https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=767676">
-</p>
-
 <p align="center">
-  <img alt="Golang" src="https://img.shields.io/static/v1?style=flat&logo=Go&label=&message=Golang&color=767676">
-  <img alt="Python" src="https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=767676">
-</p> -->
+ <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
+</p>
 
 
 I'm a 
