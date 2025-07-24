@@ -26,6 +26,11 @@ I'm a
 𝘿𝙚𝙫-𝙊𝙥𝙨 / 𝙎𝙍𝙀 / 𝘾𝙡𝙤𝙪𝙙 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [𝑵𝒂𝒓𝒘𝒂𝒍](https://narwal.com/) 𝒊𝒏 𝑺𝒉𝒆𝒏𝒁𝒉𝒆𝒏.
 
 ---
+#### Languages & Frameworks I use
+
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=kubernetes,docker,go,python,grafana,prometheus,jenkins,linux,vue,react,postgres)
+
+---
 CNCF Certification
 
 https://www.cncf.io/training/kubestronaut/?_sft_lf-country=cn&p=xuqi-yang
